@@ -1,8 +1,8 @@
-from off_chain.domain.repository import CompanyRepository
-from off_chain.domain.repository import CompensationRepository
-from off_chain.domain.repository import OperationRepository
-from off_chain.domain.repository import ProductRepository
-from off_chain.domain.repository import ThresholdRepository
+from off_chain.domain.repository.company_repository import CompanyRepository
+from off_chain.domain.repository.compensation_repository import CompensationRepository
+from off_chain.domain.repository.operation_repository import OperationRepository
+from off_chain.domain.repository.product_repository import ProductRepository
+from off_chain.domain.repository.threshold_repository import ThresholdRepository
 
 
 class ControllerAzienda:

@@ -1,5 +1,5 @@
 from off_chain.model.product_model import ProductModel as Product, ProductModel
-from off_chain.domain.repository import ProductRepository
+from off_chain.domain.repository.product_repository import ProductRepository
 
 
 class ProductController:

@@ -1,4 +1,4 @@
-from off_chain.domain.repository import CompanyRepository as Database
+from off_chain.domain.repository.company_repository import CompanyRepository as Database
 
 
 class ControllerGuest:

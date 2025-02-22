@@ -5,8 +5,8 @@ import re
 import hashlib
 
 from off_chain.domain.repository.database_repository import DatabaseRepository
-from off_chain.domain.repository import CompanyRepository
-from off_chain.domain.repository import CredentialRepository
+from off_chain.domain.repository.company_repository import CompanyRepository
+from off_chain.domain.repository.credential_repository import CredentialRepository
 
 
 class ControllerAutenticazione:
