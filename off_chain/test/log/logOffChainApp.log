@@ -1,0 +1,43 @@
+2025-02-22 15:09:41,791 - off_chain - INFO - [ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 15:09:41,805 - off_chain - INFO - [ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:09:41,807 - off_chain - INFO - [ContextFilter.get_connection] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:09:41,808 - off_chain - INFO - [ContextFilter.<module>] - Database connection established successfully.
+2025-02-22 15:09:47,168 - off_chain - INFO - [ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 15:09:47,183 - off_chain - INFO - [ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:09:47,184 - off_chain - INFO - [ContextFilter.get_connection] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:09:47,186 - off_chain - INFO - [ContextFilter.<module>] - Database connection established successfully.
+2025-02-22 15:11:43,933 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 15:11:43,947 - off_chain - INFO - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:11:43,948 - off_chain - INFO - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:11:43,950 - off_chain - INFO - Database connection established successfully.
+2025-02-22 15:12:25,120 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 15:12:25,133 - off_chain - INFO - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:12:25,134 - off_chain - INFO - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:12:25,136 - off_chain - INFO - Database connection established successfully.
+2025-02-22 15:13:16,423 - off_chain - INFO - [log_setting.py:52] - Off-chain logger inicializado correctamente.
+2025-02-22 15:13:16,435 - off_chain - INFO - [db_cnx_and_exec.py:21] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:13:16,436 - off_chain - INFO - [db_cnx_and_exec.py:28] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:13:16,438 - off_chain - INFO - [database_setting_test.py:7] - Database connection established successfully.
+2025-02-22 16:13:12,142 - app_logger - INFO - [db_cnx_and_exec.py:21] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:13:12,143 - app_logger - INFO - [db_cnx_and_exec.py:28] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:13:12,145 - app_logger - INFO - [db_cnx_and_exec_test.py:7] - Database connection established successfully.
+2025-02-22 16:14:04,535 - app_logger - INFO - [db_cnx_and_exec.py:21] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:14:04,536 - app_logger - INFO - [db_cnx_and_exec.py:28] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:14:04,538 - app_logger - INFO - [db_cnx_and_exec_test.py:7] - Database connection established successfully.
+2025-02-22 16:14:04,538 - app_logger - DEBUG - [db_cnx_and_exec_test.py:8] - Database connection established successfully.
+2025-02-22 16:33:19,804 - app_logger - INFO - [db_cnx_and_exec.py:21] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:33:19,806 - app_logger - INFO - [db_cnx_and_exec.py:28] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:33:19,807 - app_logger - INFO - [db_cnx_and_exec_test.py:7] - Database connection established successfully.
+2025-02-22 16:33:19,807 - app_logger - DEBUG - [db_cnx_and_exec_test.py:8] - Database connection established successfully.
+2025-02-22 16:54:45,019 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 16:54:45,031 - app_logger - INFO - [db_cnx_and_exec.py:21] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:54:45,032 - app_logger - INFO - [db_cnx_and_exec.py:28] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 16:54:45,033 - app_logger - INFO - [db_cnx_and_exec_test.py:7] - Database connection established successfully.
+2025-02-22 16:54:45,034 - app_logger - DEBUG - [db_cnx_and_exec_test.py:8] - Database connection established successfully.
+2025-02-22 17:06:27,851 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:27,863 - app_logger - INFO - [settings_load_yaml_test.py:12] - Archivo logging.yaml encontrado.
+2025-02-22 17:06:27,873 - app_logger - INFO - [settings_load_yaml_test.py:21] - Archivo logging.yaml cargado correctamente.
+2025-02-22 17:06:27,883 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:27,884 - app_logger - INFO - [settings_load_yaml_test.py:31] - Logger configurado correctamente.
+2025-02-22 17:06:27,894 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:27,895 - app_logger - INFO - [settings_load_yaml_test.py:40] - Mensaje de prueba

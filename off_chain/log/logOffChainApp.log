@@ -1,0 +1,7 @@
+2025-02-22 17:06:41,758 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:41,765 - app_logger - INFO - [settings_load_yaml_test.py:12] - Archivo logging.yaml encontrado.
+2025-02-22 17:06:41,775 - app_logger - INFO - [settings_load_yaml_test.py:21] - Archivo logging.yaml cargado correctamente.
+2025-02-22 17:06:41,784 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:41,785 - app_logger - INFO - [settings_load_yaml_test.py:31] - Logger configurado correctamente.
+2025-02-22 17:06:41,796 - app_logger - INFO - [log_setting.py:45] - Logger initialized successfully. (File logging: enabled)
+2025-02-22 17:06:41,797 - app_logger - INFO - [settings_load_yaml_test.py:40] - Mensaje de prueba

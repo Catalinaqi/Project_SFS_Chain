@@ -1,0 +1,34 @@
+logging:
+  version: 1
+  disable_existing_loggers: false
+
+  enable_file_logging: true
+
+  formatters:
+    detailed:
+      format: "%(asctime)s - %(name)s - %(levelname)s - [%(filename)s:%(lineno)d] - %(message)s"
+
+  handlers:
+    console:
+      class: logging.StreamHandler
+      level: DEBUG
+      formatter: detailed
+      stream: ext://sys.stdout
+
+    file:
+      class: logging.FileHandler
+      level: DEBUG
+      formatter: detailed
+      filename: log/logOffChainApp.log
+      mode: a
+      delay: false
+
+  loggers:
+    app_logger:
+      level: DEBUG
+      handlers: [console, file]
+      propagate: no
+
+  root:
+    level: DEBUG
+    handlers: [console, file]

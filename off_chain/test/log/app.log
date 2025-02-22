@@ -1,0 +1,31 @@
+2025-02-22 13:45:59,828 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:45:59,858 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:45:59,868 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:45:59,868 - off_chain - INFO - Mensaje de prueba
+2025-02-22 13:51:05,324 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:51:05,334 - off_chain - INFO - Archivo logging.yaml encontrado.
+2025-02-22 13:51:05,343 - off_chain - INFO - Archivo logging.yaml cargado correctamente.
+2025-02-22 13:51:05,352 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:51:05,352 - off_chain - INFO - Logger configurado correctamente.
+2025-02-22 13:51:05,365 - off_chain - INFO - Off-chain logger inicializado correctamente.
+2025-02-22 13:51:05,365 - off_chain - INFO - Mensaje de prueba
+2025-02-22 14:30:33,545 - off_chain - INFO - [..\configuration\log_setting.py | ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 14:30:33,546 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\off_chain\database\sfs_chain_database.db
+2025-02-22 14:30:33,546 - off_chain - WARNING - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Database file does not exist: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\off_chain\database\sfs_chain_database.db
+2025-02-22 14:30:33,552 - off_chain - ERROR - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - SQLite Operational Error: unable to open database file
+2025-02-22 14:53:25,895 - off_chain - INFO - [..\configuration\log_setting.py | ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 14:53:25,909 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\test\off_chain\database\sfs_chain_database.db
+2025-02-22 14:53:25,910 - off_chain - WARNING - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Database file does not exist: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\test\off_chain\database\sfs_chain_database.db
+2025-02-22 14:53:25,911 - off_chain - ERROR - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - SQLite Operational Error: unable to open database file
+2025-02-22 14:54:18,187 - off_chain - INFO - [..\configuration\log_setting.py | ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 14:54:18,200 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\test\off_chain\database\sfs_chain_database.db
+2025-02-22 14:54:18,201 - off_chain - WARNING - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Database file does not exist: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\test\off_chain\database\sfs_chain_database.db
+2025-02-22 14:54:18,201 - off_chain - ERROR - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - SQLite Operational Error: unable to open database file
+2025-02-22 14:59:16,331 - off_chain - INFO - [..\configuration\log_setting.py | ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 14:59:16,346 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\off_chain\database\sfs_chain_database.db
+2025-02-22 14:59:16,346 - off_chain - WARNING - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Database file does not exist: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\off_chain\database\sfs_chain_database.db
+2025-02-22 14:59:16,347 - off_chain - ERROR - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - SQLite Operational Error: unable to open database file
+2025-02-22 15:01:44,462 - off_chain - INFO - [..\configuration\log_setting.py | ContextFilter.setup_logger] - Off-chain logger inicializado correctamente.
+2025-02-22 15:01:44,474 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Attempting to connect to: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:01:44,481 - off_chain - INFO - [..\database\db_cnx_and_exec.py | ContextFilter.get_connection] - Connected to the database: K:\00_Code\Project_Sustainable_Food_Supply_Chain\off_chain\database\sfs_chain_database.db
+2025-02-22 15:01:44,487 - off_chain - INFO - [database_setting_test.py | ContextFilter.<module>] - Database connection established successfully.
